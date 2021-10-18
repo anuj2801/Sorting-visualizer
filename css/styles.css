@@ -1,3 +1,19 @@
 /*--------CLASS selectors------*/
+.heading {
+  padding-top: 5px;
+}
+.btn {
+  margin: 10px 20px;
+}
+
+.container-fluid {
+  margin-bottom: 10px;
+}
+
 /*--------ID selectors------*/
 /*--------TAG selectors------*/
+body {
+  background-color: #202020;
+  color: white;
+  text-align: center;
+}
